@@ -3,7 +3,7 @@
 An interactive dashboard and methodology for SupeRR Selector Season 2, Round 1
 (Rajasthan Royals x Unstop). Built by **Paridhi Jain**.
 
-**Live dashboard:** [https://YOURUSERNAME.github.io/superr-dashboard/](https://paridhijain5.github.io/superr-dashboard/)
+**Live dashboard:** https://paridhijain5.github.io/superr-dashboard/
 
 ## The question
 Which batters and bowlers deliver most consistently when the match is on the
